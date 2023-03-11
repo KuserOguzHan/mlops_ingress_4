@@ -108,4 +108,3 @@ kubectl delete service/ml-prediction
 ```
 kubectl get service
 ``` 
-
