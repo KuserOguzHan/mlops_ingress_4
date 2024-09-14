@@ -91,6 +91,9 @@ kubectl apply -f ingress-ml-prediction.yaml
 kubectl get ingress
 ```
 
+```
+minikube service --all
+```
 ### 7. Delete
 
 ```
